@@ -5,7 +5,7 @@
 - Clone this repository.
 - Download Xcode.
 - Navigate to ```Rotating Stick.xcodeproj```
-- Then click on the file and open up it up with Xcode.
+- Then click on the file and open it up with Xcode.
 - Build and run the project.
 - Enjoy the code and animation!
 

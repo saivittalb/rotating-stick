@@ -19,5 +19,5 @@
 - OpenGL.framework
 - GLUT.framework
 
-<p align="center"> Copyright (c) 2018 Sai Vittal B. All rights reserved.</p>
+<p align="center"> Copyright (c) 2019 Sai Vittal B. All rights reserved.</p>
 <p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
